@@ -1,0 +1,506 @@
+#EXTM3U
+#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filmes e Séries",A&E
+http://new.lista.red:80/live/Lucas3453/lp197114/85468.m3u8
+#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filmes e Séries",A&E
+http://new.lista.red:80/live/Lucas3453/lp197114/85469.m3u8
+#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filmes e Séries",AMC
+http://new.lista.red:80/live/Lucas3453/lp197114/85474.m3u8
+#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filmes e Séries",AMC
+http://new.lista.red:80/live/Lucas3453/lp197114/85476.m3u8
+#EXTINF:-1 type="stream" tvg-id="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png" group-title="Filmes e Séries",AXN
+http://new.lista.red:80/live/Lucas3453/lp197114/85480.m3u8
+#EXTINF:-1 type="stream" tvg-id="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png" group-title="Filmes e Séries",AXN
+http://new.lista.red:80/live/Lucas3453/lp197114/85483.m3u8
+#EXTINF:-1 type="stream" tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet
+http://new.lista.red:80/live/Lucas3453/lp197114/85397.m3u8
+#EXTINF:-1 type="stream" tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet
+http://new.lista.red:80/live/Lucas3453/lp197114/85399.m3u8
+#EXTINF:-1 type="stream" tvg-id="Arte 1" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png" group-title="Variedade",Arte 1
+http://new.lista.red:80/live/Lucas3453/lp197114/84857.m3u8
+#EXTINF:-1 type="stream" tvg-id="BIS" tvg-logo="https://i.ibb.co/B2DbLdN/bis.png" group-title="Entretenimento e Musica",BIS
+http://new.lista.red:80/live/Lucas3453/lp197114/84793.m3u8
+#EXTINF:-1 type="stream" tvg-id="Band News" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png" group-title="Notícia",Band News
+http://new.lista.red:80/live/Lucas3453/lp197114/84862.m3u8
+#EXTINF:-1 type="stream" tvg-id="Boomerang" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png" group-title="Infantil",Boomerang
+http://new.lista.red:80/live/Lucas3453/lp197114/85260.m3u8
+#EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network
+http://new.lista.red:80/live/Lucas3453/lp197114/79901.m3u8
+#EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate
+http://new.lista.red:80/live/Lucas3453/lp197114/85197.m3u8
+#EXTINF:-1 group-title="DEUTSCH",de:BR HD
+https://br_hdslive-f.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8?
+#EXTINF:-1 group-title="DEUTSCH",de:HR
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
+#EXTINF:-1 group-title="DEUTSCH",DE-Allgau-TV+
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/chunklist_w2042767982.m3u8
+#EXTINF:-1 group-title="DEUTSCH",DE-Baden-TV+
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w555673922.m3u8
+#EXTINF:-1 group-title="DEUTSCH",Campus-TV-Magdeburg+
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8?bitrate=800
+#EXTINF:-1 group-title="DEUTSCH",DE-Deutsche-Welle+
+http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEUTSCH",DE-Franken-Fernsehen+
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/chunklist_w160345619.m3u8
+#EXTINF:-1 group-title="DEUTSCH",DE-Folx-TV+
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+#EXTINF:-1 group-title="DEUTSCH",DE-HR-Fernsehen+
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEUTSCH",DE-Isar-TV+
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DEUTSCH",DE-MDF.1+
+http://62.113.210.250/medienasa-live/mdf1_high/chunklist_w735071599.m3u8
+#EXTINF:-1 group-title="DEUTSCH",DE-Munchen-TV+
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/chunklist_w984595760.m3u8
+#EXTINF:-1 group-title="DEUTSCH",DE-Noa-4-Norderstedt+
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="DEUTSCH",DE-Noa-4-Hamburg+
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="DEUTSCH",DE-Oberpfalz-TV+
+http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w793481164.m3u8
+#EXTINF:-1 group-title="DEUTSCH",DE-Offener-Kanal-Magdeburg+
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8?bitrate=800
+#EXTINF:-1 group-title="DEUTSCH",DE-RFO+
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/chunklist_w2048560548.m3u8
+#EXTINF:-1 group-title="DEUTSCH",DE-tagesschau24+
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEUTSCH",DE-Telebasel+
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/chunklist_w210250868.m3u8
+#EXTINF:-1 group-title="DEUTSCH",DE-TVA-Ostbayern+
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w1009778014.m3u8
+#EXTINF:-1 group-title="DEUTSCH",DE-TV-Oberfranken+
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w751782099.m3u8
+#EXTINF:-1 group-title="DEUTSCH",DE-TV-Touring-Schweinfurt+
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w751782099.m3u8
+#EXTINF:-1 group-title="DEUTSCH",DE-Tirol-TV+
+http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w516897777.m3u8
+#EXTINF:-1 ,|BE| Bel RTL
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1862
+#EXTINF:-1 ,|BE| BX1 HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1863
+#EXTINF:-1 ,|BE| CINE HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1864
+#EXTINF:-1 ,|BE| Canvas HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1865
+#EXTINF:-1 ,|BE| Caz HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1866
+#EXTINF:-1 ,|BE| Club RTL
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1870
+#EXTINF:-1 ,|BE| EEN HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1871
+#EXTINF:-1 ,|BE| Eleven Sports 1 HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1874
+#EXTINF:-1 ,|BE| Eleven Sports 2 HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1875
+#EXTINF:-1 ,|BE| Kadet
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1878
+#EXTINF:-1 ,|BE| Ketnet HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1879
+#EXTINF:-1 ,|BE| KetOp12
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1880
+#EXTINF:-1 ,|BE| La Deux
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1881
+#EXTINF:-1 ,|BE| La Trois
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1882
+#EXTINF:-1 ,|BE| La Une HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1883
+#EXTINF:-1 ,|BE| Plug RTL
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1885
+#EXTINF:-1 ,|BE| Q2 HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1886
+#EXTINF:-1 ,|BE| RTL 2 Luxembourg
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1887
+#EXTINF:-1 ,|BE| RTL Luxembourg
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1888
+#EXTINF:-1 ,|BE| RTL TVI
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1889
+#EXTINF:-1 ,|BE| Vier HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1893
+#EXTINF:-1 ,|BE| Vijf
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1894
+#EXTINF:-1 ,|BE| Vitaya
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1895
+#EXTINF:-1 ,|BE| Voo Sport 1 FHD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1896
+#EXTINF:-1 ,|BE| Voo Sport 2
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1897
+#EXTINF:-1 ,|BE| Voo Sport World 1 FHD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1898
+#EXTINF:-1 ,|BE| VTM HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1899
+#EXTINF:-1 ,|BE| VTM Kids / Kanal Z
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1900
+#EXTINF:-1 ,|BE| VTM Kids Jr
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1901
+#EXTINF:-1 ,BE - PLAY SPORT 1 HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/3633
+#EXTINF:-1 ,BE - PLAY SPORT 2 HD
+http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/3634
+#EXTINF:-1 ,|FR| FRANCE 3 FHD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/4
+#EXTINF:-1 ,M6 HD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/6
+#EXTINF:-1 ,M6 FHD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/7
+#EXTINF:-1 ,TMC FHD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/10
+#EXTINF:-1 ,W9 FHD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/12
+#EXTINF:-1 ,TF1 HD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/13
+#EXTINF:-1 ,EQUIPE21
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/15
+#EXTINF:-1 ,TF1 FHD
+http://iptv7.premium-stv.com:25461/gnsportfrshtf1/fqzo522Da264/14
+#EXTINF:-1 ,PT:SPORT_TV_3_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1547
+#EXTINF:-1 ,PT:SPORT_TV_1_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1545
+#EXTINF:-1 ,PT:Porto_Canal
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1721
+#EXTINF:-1 ,PT:National_Geographic
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1539
+#EXTINF:-1 ,PT:HOLLYWOOD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1536
+#EXTINF:-1 ,PT:FOX_TV
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1537
+#EXTINF:-1 ,PT:BTV_1_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1719
+#EXTINF:-1 ,BE:LA_DEUX
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1991
+#EXTINF:-1 ,SC:C-More-Series
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1600
+#EXTINF:-1 ,SC:C-More-Hits
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1606
+#EXTINF:-1 ,UK:Sky-Movies-Thriller
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/637
+#EXTINF:-1 ,UK:ITV_2_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/658
+#EXTINF:-1 ,UK:ITV_1_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/659
+#EXTINF:-1 ,UK:Sky_Atlantic
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/610
+#EXTINF:-1 ,UK:Setanta_Sports
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/611
+#EXTINF:-1 ,UK:Nick_Junior
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/613
+#EXTINF:-1 ,UK:Disney_Channel
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/617
+#EXTINF:-1 ,UK:CHANNEL_5
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/618
+#EXTINF:-1 ,UK:Film_4
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/619
+#EXTINF:-1 ,UK:CBS_Drama
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/620
+#EXTINF:-1 ,UK:Sky_News
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/623
+#EXTINF:-1 ,UK:BBC_One
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/625
+#EXTINF:-1 ,UK:BBC_News
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/660
+#EXTINF:-1 ,UK:Animal_Planet
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/626
+#EXTINF:-1 ,UK:CBS_Reality
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/622
+#EXTINF:-1 ,UK:History_Channel
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/636
+#EXTINF:-1 ,UK:Sky-Movies-Family
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/640
+#EXTINF:-1 ,UK:Sky-Movies-Comedy
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/642
+#EXTINF:-1 ,UK:Sky-Living
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/645
+#EXTINF:-1 ,UK:Food_Network
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/646
+#EXTINF:-1 ,UK:QUEST
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/647
+#EXTINF:-1 ,UK:Nicktoons
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/648
+#EXTINF:-1 ,UK:Disney_XD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/649
+#EXTINF:-1 ,UK:Disney_Junior
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/650
+#EXTINF:-1 ,UK:Discovery-Science
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/653
+#EXTINF:-1 ,UK:Discovery-History
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/654
+#EXTINF:-1 ,UK:Discovery
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/655
+#EXTINF:-1 ,NL:Ziggo_Sport_Extra_1
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/931
+#EXTINF:-1 ,NL:SBS_9
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/937
+#EXTINF:-1 ,NL:RTL_7
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/940
+#EXTINF:-1 ,NL:RTL_4
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/938
+#EXTINF:-1 ,NL:NPO_2
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/923
+#EXTINF:-1 ,NL:NPO_1
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/922
+#EXTINF:-1 ,NL:NET_5
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/935
+#EXTINF:-1 ,NL:NATIONAL_GEOGRAPHIC
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/941
+#EXTINF:-1 ,NL:Fox_Sports_1
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/926
+#EXTINF:-1 ,NL:Fox_Sports_2
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/762
+#EXTINF:-1 ,IT:SuperTennis_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/662
+#EXTINF:-1 ,IT:Sky_Uno_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/673
+#EXTINF:-1 ,IT:Discovery
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/751
+#EXTINF:-1 ,IT:Premium_Cinema24
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/752
+#EXTINF:-1 ,IT:Sky_Cinema_Suspense_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/737
+#EXTINF:-1 ,IT:Sky_Cinema_Collection_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/739
+#EXTINF:-1 ,IT:Sky_Cinema_Uno_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/676
+#EXTINF:-1 ,IT:Cielo_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/741
+#EXTINF:-1 ,IT:Rai_3HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/691
+#EXTINF:-1 ,IT:Rai_1HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/693
+#EXTINF:-1 ,IT:Primafilla_6
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/712
+#EXTINF:-1 ,IT:Primafilla_10
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/717
+#EXTINF:-1 ,IT:Primafilla_1
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/718
+#EXTINF:-1 ,IT:Premium_Energy_Plus_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/720
+#EXTINF:-1 ,IT:Premium_Cinema_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/747
+#EXTINF:-1 ,IT:Premium_Action
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/728
+#EXTINF:-1 ,IT:Nat_Geo_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/679
+#EXTINF:-1 ,IT:Premium_Paramount
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/672
+#EXTINF:-1 ,IT:Mediaset_Extra
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/730
+#EXTINF:-1 ,IT:LA_7_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/732
+#EXTINF:-1 ,IT:La_5
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/733
+#EXTINF:-1 ,IT:Fox_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/681
+#EXTINF:-1 ,IT:Discovery_Sci_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/745
+#EXTINF:-1 ,IT:DMAX_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/683
+#EXTINF:-1 ,IT:Disney_Junior
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/684
+#EXTINF:-1 ,IT:Cartoonito
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/686
+#EXTINF:-1 ,IT:Canale_5_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/736
+#EXTINF:-1 ,IT:CACCIA_e_Pesca
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/687
+#EXTINF:-1 ,IT:Boing
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/688
+#EXTINF:-1 ,FR:W9
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/894
+#EXTINF:-1 ,DE:Sky_Emotion
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/818
+#EXTINF:-1 ,FR:Ushuaia_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/895
+#EXTINF:-1 ,FR:Tout_LHistoire
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/884
+#EXTINF:-1 ,FR:TIJI
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/888
+#EXTINF:-1 ,FR:TF1
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/887
+#EXTINF:-1 ,FR:Disney_Junior
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/889
+#EXTINF:-1 ,FR:RTL9
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/885
+#EXTINF:-1 ,FR:Planete
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/883
+#EXTINF:-1 ,FR:PIWI
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/891
+#EXTINF:-1 ,FR:NRJ12
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/882
+#EXTINF:-1 ,FR:Nat_Geo
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/881
+#EXTINF:-1 ,FR:M6
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/880
+#EXTINF:-1 ,FR:Infosport
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/879
+#EXTINF:-1 ,FR:GULLI
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/893
+#EXTINF:-1 ,FR:France_5
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/845
+#EXTINF:-1 ,FR:France_2
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/842
+#EXTINF:-1 ,FR:Disney
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/878
+#EXTINF:-1 ,FR:CINE_POLAR
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/847
+#EXTINF:-1 ,FR:CINE_CLASSIC
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/848
+#EXTINF:-1 ,FR:CINE_FAMIZ
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/851
+#EXTINF:-1 ,FR:Chasse_Et_Peche
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/857
+#EXTINF:-1 ,FR:Discovery
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/877
+#EXTINF:-1 ,FR:Canal_J
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/892
+#EXTINF:-1 ,FR:CANAL_SPORT_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/853
+#EXTINF:-1 ,FR:CANAL_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/854
+#EXTINF:-1 ,FR:CANAL_DECALE_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/855
+#EXTINF:-1 ,FR:Animaux_hd
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/876
+#EXTINF:-1 ,FR:Action
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/890
+#EXTINF:-1 ,EX-YU:PINK_CRIME_Mystery
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/574
+#EXTINF:-1 ,EX-YU:PINK_REALITY
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/575
+#EXTINF:-1 ,EX-YU:PINK_PREMIUM
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/576
+#EXTINF:-1 ,EX-YU:PINK_HORROR
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/579
+#EXTINF:-1 ,EX-YU:Nova_HR
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/573
+#EXTINF:-1 ,EX-YU:HRT_3
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/571
+#EXTINF:-1 ,EX-YU:HRT_2
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/570
+#EXTINF:-1 ,EX-YU:HRT_1
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/569
+#EXTINF:-1 ,EX-YU:Arena_Sport_2
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/583
+#EXTINF:-1 ,EX-YU:Arena_Sport_1
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/584
+#EXTINF:-1 ,EX-YU:Sport_Klub3
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1446
+#EXTINF:-1 ,EX-YU:Sport_Klub2
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1445
+#EXTINF:-1 ,EX-YU:Sport_Klub1
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1444
+#EXTINF:-1 ,ES:Real_Madrid
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1024
+#EXTINF:-1 ,ES:FOX_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1014
+#EXTINF:-1 ,ES:Movistar_TOROS
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1017
+#EXTINF:-1 ,ES:Movistar_SERIES
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1016
+#EXTINF:-1 ,ES:Movistar_ESTRENOS
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1019
+#EXTINF:-1 ,ES:Movistar_DEPORTES
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1018
+#EXTINF:-1 ,ES:Movistar_COMIDEA
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1023
+#EXTINF:-1 ,ES:Barca_TV
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1025
+#EXTINF:-1 ,DE:Syfy_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/832
+#EXTINF:-1 ,DE:SUPER_RTL
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/83
+#EXTINF:-1 ,DE:Sky_TNT_Serie
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/608
+#EXTINF:-1 ,DE:Sky_Hits_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1371
+#EXTINF:-1 ,DE:Sky_Comedy
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/598
+#EXTINF:-1 ,DE:Sky_Cinema-24
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/599
+#EXTINF:-1 ,DE:Sky_Atlantic_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/816
+#EXTINF:-1 ,DE:Sixx_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/829
+#EXTINF:-1 ,DE:RTL_2
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/82
+#EXTINF:-1 ,DE:National_Geo_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/830
+#EXTINF:-1 ,DE:History_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/822
+#EXTINF:-1 ,DE:Fox_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/604
+#EXTINF:-1 ,DE:Disney_Junior_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/823
+#EXTINF:-1 ,DE:AXN
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/833
+#EXTINF:-1 ,DE:ARD_1
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/605
+#EXTINF:-1 ,DE:13_Street_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/603
+#EXTINF:-1 ,ALB:Klan-HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/905
+#EXTINF:-1 ,ALB:TRING_WORLD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/535
+#EXTINF:-1 ,ALB:TRING_TRING
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/536
+#EXTINF:-1 ,ALB:Tring_Sport_News
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/911
+#EXTINF:-1 ,ALB:TRING_Sport_2
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/528
+#EXTINF:-1 ,ALB:TRING_Sport_1
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/527
+#EXTINF:-1 ,ALB:TRING_SHQIP
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/538
+#EXTINF:-1 ,ALB:TRING_PLANET
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/539
+#EXTINF:-1 ,ALB:TRING_LIFE
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/541
+#EXTINF:-1 ,ALB:TRING_COMEDY
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/542
+#EXTINF:-1 ,ALB:TRING_HISTORI
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/543
+#EXTINF:-1 ,ALB:TRING_FANTASY
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/544
+#EXTINF:-1 ,ALB:Top_Channel
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/904
+#EXTINF:-1 ,ALB:Super_Sport_4
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/531
+#EXTINF:-1 ,ALB:Super_Sport_3
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/532
+#EXTINF:-1 ,ALB:National_Geographic
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/910
+#EXTINF:-1 ,ALB:KTV_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/547
+#EXTINF:-1 ,ALB:JOLLY_HD
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/549
+#EXTINF:-1 ,ALB:FILM_STINET
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/907
+#EXTINF:-1 ,ALB:FILM_KOMEDI
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/552
+#EXTINF:-1 ,ALB:FILM_HITS
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/553
+#EXTINF:-1 ,ALB:EXP_SHKENCE
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/558
+#EXTINF:-1 ,ALB:EXP_HISTORI
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/559
+#EXTINF:-1 ,ALB:Cufo
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/908
+#EXTINF:-1 ,ALB:Bang_Bang
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/560
+#EXTINF:-1 ,ALB:ALSAT_M
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/561
+#EXTINF:-1 ,ALB:ABC_NEWS
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/562
+#EXTINF:-1 ,RMC SPORT 5 HD
+http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/61
+#EXTINF:-1 ,RMC SPORT 5 FHD
+http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/66
+#EXTINF:-1 ,RMC SPORTS 3 SD
+http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/58
+#EXTINF:-1 ,RMC SPORT 3 HD
+http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/63
+#EXTINF:-1 ,RMC SPORTS 3 FHD
+http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/68
+#EXTINF:-1 ,CA: CHIN
+http://spot-1.spotv.me:8080/live/radios/radios/5542.ts
+#EXTINF:-1 ,CA: CIRV
+http://spot-1.spotv.me:8080/live/radios/radios/5540.ts
+ 
